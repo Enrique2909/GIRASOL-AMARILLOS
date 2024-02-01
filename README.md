@@ -1,4 +1,4 @@
-# Proyecto Girasol
+# PROYECTO GIRASOL AMARILLO 
 
 **Girasol Amarillos** es una aplicación que te permite dibujar un hermoso girasol utilizando la biblioteca Turtle en Python.
 

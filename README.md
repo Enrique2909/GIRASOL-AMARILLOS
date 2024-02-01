@@ -5,8 +5,11 @@ Instalación
 Clona el repositorio:
 git clone https://github.com/Enrique2909/GIRASOL-AMARILLOS.git
 Uso
-Puedes ejecutar el programa principal de dos maneras:
+Puedes ejecutar el programa principal en visual code o descargando Pydroid 3
 
-En tu computadora
-Ejecuta el programa principal con:
-python main.py
+En Android con "Pydroid 3"
+La aplicación "Pydroid 3". Sigue estos pasos:
+
+Abre la aplicación "Pydroid 3":
+Pega el código en un nuevo proyecto.
+Ejecuta el programa.

@@ -4,6 +4,7 @@ Proyecto Girasol es una aplicación que te permite dibujar un hermoso girasol ut
 Instalación
 Clona el repositorio:
 git clone https://github.com/Enrique2909/GIRASOL-AMARILLOS.git
+
 Uso
 Puedes ejecutar el programa principal en visual code o descargando Pydroid 3
 
